@@ -23,7 +23,7 @@
   };
 
   document.addEventListener(
-    "mousewheel",
+    "wheel",
     function(event) {
       var $currentSlide = $($slides[currentSlide]);
 
