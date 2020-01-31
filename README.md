@@ -1,6 +1,6 @@
 # Simple jQuery sections slider
 
-This is a very simple implementation of the sections slider in jQuery.
+A very simple implementation of the sections slider in jQuery.
 
 Try it live on this [demo](https://epranka.github.io/sections-slider)
 
