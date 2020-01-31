@@ -14,19 +14,19 @@ The HTML code
 
 ```html
 <div id="section1" class="section">
-    <span>1. Viewport height section</span>
+  <span>1. Viewport height section</span>
 </div>
 
 <div id="section2" class="section">
-    <span>2. Long section</span>
+  <span>2. Long section</span>
 </div>
 
 <div id="section3" class="section">
-    <span>3. Short section</span>
+  <span>3. Short section</span>
 </div>
 
 <div id="section4" class="section">
-    <span>4. Viewport height section</span>
+  <span>4. Viewport height section</span>
 </div>
 ```
 
@@ -34,36 +34,38 @@ The CSS code
 
 ```css
 .section {
-    color: white;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-weight: 800;
-    font-size: 120%;
-    font-weight: 800;
-    position: relative;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 800;
+  font-size: 120%;
+  font-weight: 800;
+  position: relative;
 }
 
 #section1 {
-    height: 100vh;
-    background: #6699cc;
+  height: 100vh;
+  background: #6699cc;
 }
 
 #section2 {
-    height: 150vh;
-    background: #ff8c42;
+  height: 150vh;
+  background: #ff8c42;
 }
 
 #section3 {
-    height: 60vh;
-    background: #ff3c38;
+  height: 60vh;
+  background: #ff3c38;
 }
 
 #section4 {
-    height: 100vh;
-    background: #a23e48;
+  height: 100vh;
+  background: #a23e48;
 }
 ```
+
+The JavaScript code
 
 ```js
 (function($) {
