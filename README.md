@@ -8,7 +8,7 @@ Yes, it is very basic. It can be greatly improved, but it just an example of how
 
 Follow me on [![](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/epranka) and [dev.to](https://dev.to/epranka)
 
-![](https://i.ibb.co/wBPqWY3/sections-slider-min.gif)
+![](https://i.ibb.co/qd8VXqC/image.png)
 
 The HTML code
 
