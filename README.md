@@ -4,7 +4,7 @@ A very simple implementation of the sections slider in jQuery.
 
 Try it live on this [demo](https://epranka.github.io/sections-slider)
 
-Yes, it is very basic. It can be greatly improved, but it just an example how fast it can be implemented. If you need a full-featured slider, use this awesome library [fullpage.js](https://alvarotrigo.com/fullPage/) by [Alvaro Trigo](https://twitter.com/IMAC2)
+Yes, it is very basic. It can be greatly improved, but it just an example of how fast it can be implemented. If you need a full-featured slider, use this awesome library [fullpage.js](https://alvarotrigo.com/fullPage/) by [Alvaro Trigo](https://twitter.com/IMAC2)
 
 Follow me on [![](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/epranka) and [dev.to](https://dev.to/epranka)
 
@@ -46,7 +46,7 @@ The CSS code
 
 #section1 {
   height: 100vh;
-  background: #6699cc;
+  background: #ff3c38;
 }
 
 #section2 {
@@ -56,12 +56,12 @@ The CSS code
 
 #section3 {
   height: 60vh;
-  background: #ff3c38;
+  background: #6699cc;
 }
 
 #section4 {
   height: 100vh;
-  background: #a23e48;
+  background: #00b9ae;
 }
 ```
 

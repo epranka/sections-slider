@@ -87,22 +87,22 @@ textarea {
 
 #section0 {
   height: 60vh;
-  background: #00b9ae;
+  background: #ff3c38;
 }
 
 #section1 {
   height: 100vh;
-  background: #6699cc;
+  background: #ff8c42;
 }
 
 #section2 {
   height: 150vh;
-  background: #ff8c42;
+  background: #6699cc;
 }
 
 #section3 {
   height: 60vh;
-  background: #ff3c38;
+  background: #00b9ae;
 }
 
 #section4 {
